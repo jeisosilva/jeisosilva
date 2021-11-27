@@ -1,6 +1,6 @@
-## Olá! Eu sou o Jeiso, mas pode me chamar de Jay 😄 
+## Olá! Eu sou Jeiso, mas pode me chamar de Jay 😄 
 
-**About me**
+**Sobre**
 
 - 💼 Data Scientist at [NielsenIQ](https://nielseniq.com/global/pt/)
 
@@ -8,7 +8,7 @@
 
 - 👉 Visite meu blog [aqui](https://jeisosilva.github.io)
 
-**Languages and Tools:**  
+**Linguagens e Ferramentas:**  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -31,7 +31,7 @@
 </div>
 <br>
 
-#### Top Repositories
+#### Top Repo
 <br>
 
 <a href="https://github.com/jeisosilva/jeisosilva.github.io">
