@@ -1,14 +1,14 @@
-## Olá! Eu sou Jeiso, mas pode me chamar de Jay 😄 
+## Olá! Eu sou o Jeiso, mas pode me chamar de Jay <img align="center" alt="Rafa-Csharp" height="70" width="70" src="source\tmj.webp">
 
-**Sobre**
+**About me**
 
-- 💼 Data Scientist at [NielsenIQ](https://nielseniq.com/global/pt/)
+- <img align="center" alt="Rafa-Csharp" height="70" width="70" src="source\callme.webp"> Data Scientist at [NielsenIQ](https://nielseniq.com/global/pt/)
 
-- ❤️ Entusiasta e Apaixonado por Tecnologia
+- <img align="center" alt="Rafa-Csharp" height="70" width="70" src="source\hearts.webp"> Entusiasta e Apaixonado por Tecnologia
 
-- 👉 Visite meu blog [aqui](https://jeisosilva.github.io)
+- <img align="center" alt="Rafa-Csharp" height="70" width="70" src="source\laptop.webp"> Visite meu blog [aqui](https://jeisosilva.github.io)
 
-**Linguagens e Ferramentas:**  
+**Languages and Tools:**  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -17,6 +17,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg">
 </div> 
 <br>
@@ -31,7 +32,7 @@
 </div>
 <br>
 
-#### Top Repo
+#### Top Repositories
 <br>
 
 <a href="https://github.com/jeisosilva/jeisosilva.github.io">
